@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{CC65C1B9-4107-4236-B440-654C2DB2A3C3}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.SpecFlowTestExecution PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SpecFlowTestExecution/Steps/CreateEmployeeStep.cs">
+    <Files>
+      <File FileName="../../../../../../../usr/local/share/dotnet/sdk/3.1.300/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.TargetFrameworkInference.targets" Line="97" Column="5" />
+      <File FileName="SpecFlowTestExecution/Steps/CreateEmployeeStep.cs" Line="22" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="E2ETestAutomation" expanded="True">
+            <Node name="SpecFlowTestExecution" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="ProjectDependencies" expanded="True" />
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+              <Node name="Steps" expanded="True">
+                <Node name="CreateEmployeeStep.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="VeronaAutoFramework" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

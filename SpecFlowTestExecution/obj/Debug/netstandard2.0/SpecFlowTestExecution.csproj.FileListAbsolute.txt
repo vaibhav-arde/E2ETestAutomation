@@ -1,0 +1,4 @@
+/Users/vaibhavbarde/Desktop/Project/VaibhaV/CSharp/E2ETestAutomation/SpecFlowTestExecution/obj/Debug/netstandard2.0/SpecFlowTestExecution.csprojAssemblyReference.cache
+/Users/vaibhavbarde/Desktop/Project/VaibhaV/CSharp/E2ETestAutomation/SpecFlowTestExecution/obj/Debug/netstandard2.0/SpecFlowTestExecution.AssemblyInfoInputs.cache
+/Users/vaibhavbarde/Desktop/Project/VaibhaV/CSharp/E2ETestAutomation/SpecFlowTestExecution/obj/Debug/netstandard2.0/SpecFlowTestExecution.AssemblyInfo.cs
+/Users/vaibhavbarde/Desktop/Project/VaibhaV/CSharp/E2ETestAutomation/SpecFlowTestExecution/obj/Debug/netstandard2.0/SpecFlowTestExecution.csproj.CoreCompileInputs.cache

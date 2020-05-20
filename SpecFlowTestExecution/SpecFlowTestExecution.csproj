@@ -1,7 +1,11 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+  <!-- </PropertyGroup>
+  <PropertyGroup> See: https://github.com/techtalk/SpecFlow/issues/1516#issuecomment-488244190  -->
+    <_SpecFlow_nUnitRuntimePlugin>netstandard2.0</_SpecFlow_nUnitRuntimePlugin> 
   </PropertyGroup>
+
   <ItemGroup>
     <PackageReference Include="ExtentReports.Core" Version="1.0.3" />
     <PackageReference Include="Selenium.Support" Version="3.141.0" />

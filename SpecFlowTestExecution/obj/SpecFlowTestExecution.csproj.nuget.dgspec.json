@@ -14,7 +14,7 @@
         "outputPath": "/Users/vaibhavbarde/Desktop/Project/VaibhaV/CSharp/E2ETestAutomation/SpecFlowTestExecution/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/vaibhavbarde/.nuget/NuGet/NuGet.Config"
+          "/Users/vaibhavbarde/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -93,7 +93,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -107,7 +107,7 @@
         "outputPath": "/Users/vaibhavbarde/Desktop/Project/VaibhaV/CSharp/E2ETestAutomation/VeronaAutoFramework/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/vaibhavbarde/.nuget/NuGet/NuGet.Config"
+          "/Users/vaibhavbarde/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -190,7 +190,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
         }
       }
     }
