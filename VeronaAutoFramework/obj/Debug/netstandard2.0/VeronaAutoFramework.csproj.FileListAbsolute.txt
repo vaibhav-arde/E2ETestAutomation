@@ -1,0 +1,7 @@
+/Users/vaibhavbarde/Desktop/Project/VaibhaV/CSharp/E2ETestAutomation/VeronaAutoFramework/bin/Debug/netstandard2.0/TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+/Users/vaibhavbarde/Desktop/Project/VaibhaV/CSharp/E2ETestAutomation/VeronaAutoFramework/obj/Debug/netstandard2.0/VeronaAutoFramework.csproj.CoreCompileInputs.cache
+/Users/vaibhavbarde/Desktop/Project/VaibhaV/CSharp/E2ETestAutomation/VeronaAutoFramework/obj/Debug/netstandard2.0/VeronaAutoFramework.AssemblyInfoInputs.cache
+/Users/vaibhavbarde/Desktop/Project/VaibhaV/CSharp/E2ETestAutomation/VeronaAutoFramework/obj/Debug/netstandard2.0/VeronaAutoFramework.AssemblyInfo.cs
+/Users/vaibhavbarde/Desktop/Project/VaibhaV/CSharp/E2ETestAutomation/VeronaAutoFramework/obj/Debug/netstandard2.0/VeronaAutoFramework.dll
+/Users/vaibhavbarde/Desktop/Project/VaibhaV/CSharp/E2ETestAutomation/VeronaAutoFramework/obj/Debug/netstandard2.0/VeronaAutoFramework.pdb
+/Users/vaibhavbarde/Desktop/Project/VaibhaV/CSharp/E2ETestAutomation/VeronaAutoFramework/obj/Debug/netstandard2.0/VeronaAutoFramework.csprojAssemblyReference.cache

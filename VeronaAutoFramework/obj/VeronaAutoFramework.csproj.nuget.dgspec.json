@@ -1,0 +1,105 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/vaibhavbarde/Desktop/Project/VaibhaV/CSharp/E2ETestAutomation/VeronaAutoFramework/VeronaAutoFramework.csproj": {}
+  },
+  "projects": {
+    "/Users/vaibhavbarde/Desktop/Project/VaibhaV/CSharp/E2ETestAutomation/VeronaAutoFramework/VeronaAutoFramework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vaibhavbarde/Desktop/Project/VaibhaV/CSharp/E2ETestAutomation/VeronaAutoFramework/VeronaAutoFramework.csproj",
+        "projectName": "VeronaAutoFramework",
+        "projectPath": "/Users/vaibhavbarde/Desktop/Project/VaibhaV/CSharp/E2ETestAutomation/VeronaAutoFramework/VeronaAutoFramework.csproj",
+        "packagesPath": "/Users/vaibhavbarde/.nuget/packages/",
+        "outputPath": "/Users/vaibhavbarde/Desktop/Project/VaibhaV/CSharp/E2ETestAutomation/VeronaAutoFramework/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vaibhavbarde/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "ExcelDataReader": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "ExcelDataReader.DataSet": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "ExtentReports.Core": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.1.86, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.1.86, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

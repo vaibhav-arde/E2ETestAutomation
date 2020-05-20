@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{CC65C1B9-4107-4236-B440-654C2DB2A3C3}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.SpecFlowTestExecution PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../../../Library/Frameworks/Mono.framework/Versions/6.8.0/lib/mono/msbuild/Current/bin/Microsoft.Common.CurrentVersion.targets">
+    <Files>
+      <File FileName="../../../../../../../Library/Frameworks/Mono.framework/Versions/6.8.0/lib/mono/msbuild/Current/bin/Microsoft.Common.CurrentVersion.targets" Line="4671" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="E2ETestAutomation" expanded="True">
+            <Node name="SpecFlowTestExecution" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+              <Node name="Hooks" expanded="True" />
+              <Node name="Pages" expanded="True" />
+            </Node>
+            <Node name="VeronaAutoFramework" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Extensions" expanded="True" />
+              <Node name="Helpers" expanded="True">
+                <Node name="ExcelHelpers.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
